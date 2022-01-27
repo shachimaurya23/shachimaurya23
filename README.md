@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Shachi Maurya </h1>
+<h1> Hi, I’m Shachi Maurya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
 
 **About Me**
 - ☺️ Currently pursuing my BTech CSE from Vellore Institute of Technology,VIT Vellore.
