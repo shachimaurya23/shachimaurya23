@@ -20,12 +20,7 @@
  <br>
 
   <img align="center" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
-  
-<br>
-  <p align="center"> Contributions <br>
-  <img src="https://github.com/shachimaurya23/shachimaurya23/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
-</p>
-<br>
+ 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"/>
 <p>
