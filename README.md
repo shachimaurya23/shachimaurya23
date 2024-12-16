@@ -1,10 +1,9 @@
 <h1> Hi, I’m Shachi Maurya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
 
 **About Me**
-- ☺️ Currently pursuing my BTech CSE from Vellore Institute of Technology,VIT Vellore.
-- 💻 Interseted in Web Dev, App Dev and coding.
-- 💪 Always eager to learn and improve my skils.
-- 🌱 Exploring new fields like IoT , AI , Data Science.
+- 💻 Interested in Data Science, Data Engineering and AI/ML.
+- 💪 Always eager to learn and explore new topics.
+- 🌱 Currently working as a Data Scientist.
 
  <br>
 
