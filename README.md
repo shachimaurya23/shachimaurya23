@@ -7,7 +7,7 @@
         height="35px" 
         src="https://private-user-images.githubusercontent.com/74038190/245400770-7711afef-11f4-4a9d-91b1-3ea9e51ffe05.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczOTc3NzAsIm5iZiI6MTczNzM5NzQ3MCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NzAtNzcxMWFmZWYtMTFmNC00YTlkLTkxYjEtM2VhOWU1MWZmZTA1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE4MjQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1ZTFjZTAyOTBiMTRlMGYwZDg4MjRhYmQ4ZDc4NDBlN2NhYjFmY2YxMGM5MzcwZGQyYWM3NzkzNTUwZjI1YzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Yd4RCmbNb4t1rWzlaKlDv6MlNiBfRorQRH-xGrJNxLA"/> About Me</h3>
 
-<table aling="center">
+<table align="center">
 <tr>
 <td width="70%">
 
@@ -16,7 +16,7 @@
 - 🌱 Currently working as a Data Scientist.
 
 </td>
-<td width="50%">
+<td width="70%">
 <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 </td>
 </tr>
@@ -31,15 +31,15 @@
         height="35px" 
         src="https://private-user-images.githubusercontent.com/74038190/245400778-9037a869-528d-44e2-acaa-288c260ec742.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzczOTc3NzAsIm5iZiI6MTczNzM5NzQ3MCwicGF0aCI6Ii83NDAzODE5MC8yNDU0MDA3NzgtOTAzN2E4NjktNTI4ZC00NGUyLWFjYWEtMjg4YzI2MGVjNzQyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTIwVDE4MjQzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFkYWE5NDcyMzliMmQwZjc0M2NhM2NmMTMxMTFlMmVhYzExNDJlNmIxYmI0ZTMwMmUwYTU0ZmY5ZGVkYTE4MzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.CzOn6SO7gAt12Ll-dAfAu4SmxL4l3ETXkmGgBRRxHrc"/> GitHub Stats</h3>
 
-<table align="center">
-  <tr>
-    <td>
+<table align="center" >
+<tr>
+<td width="70%">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=shachimaurya23&hide=contribs,prs&theme=dracula" />
-    </td>
-    <td>
+</td>
+<td width="90%">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shachimaurya23&hide=javascript&theme=dracula" />
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <img width="100%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966"/>
